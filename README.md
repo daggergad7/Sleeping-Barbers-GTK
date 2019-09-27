@@ -17,7 +17,7 @@ are occupied, then the customer leaves the shop. If all the barbers are busy but
 the customer sits in one of the free chairs. If the barbers are asleep, the customer wakes up one of the
 barbers.
 
-## Run it with : g++ Sleeping_Barbers.cpp -o Sleeping_Barbers `pkg-config --cflags gtk+-3.0` `pkg-config --libs gtk+-3.0` -lpthread -fpermissive && ./Sleeping_Barber
+###### Run it with : g++ Sleeping_Barbers.cpp -o Sleeping_Barbers `pkg-config --cflags gtk+-3.0` `pkg-config --libs gtk+-3.0` -lpthread -fpermissive && ./Sleeping_Barber
 
 ## Output Screenshots:
 
